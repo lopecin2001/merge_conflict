@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi página rechachi✌🏻</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Me llamo Pablo</h1>
+    <p>Sí, Pablo</p>
+
+    <img src="sobada.jpg" alt="rickrolled" width="300">
+    <br>
+    <p>Entreno en el oviedo 🍟</p>
+    <p>Never gonna give you up 🎶</p>
+    Tremenda  sobada gordisima
+    <a href="https://github.com/lopecin2001">Enlace a github</a>
+    <p>Muere profesor en oviedo tras rickrollear a 20+ alumnos </p>
+    <a href="https://github.com/rodri-afa">Enlace a github</a>
+
+</body>
+
+</html>
